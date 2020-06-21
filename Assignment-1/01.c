@@ -1,3 +1,8 @@
+/*
+***Problem-1***
+Write a program where you will take the two sides of a rectangle and calculate the area and perimeter of the rectangle.
+*/
+
 #include <stdio.h>
 
 int main() {
